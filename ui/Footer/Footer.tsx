@@ -84,7 +84,7 @@ const Footer = () => (
         <ButtonGroup variant="ghost">
           <IconButton
             as="a"
-            href="#"
+            href="https://twitter.com/WtiOil?s=20&t=01VMsF7Rzb6JB7seb91sgA"
             aria-label="Twitter"
             size="lg"
             bg="brand.primary.400"
